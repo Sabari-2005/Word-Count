@@ -31,6 +31,6 @@ with open("story.txt","r") as f1:
 print("The number of words are in the file is ",num)
 ```
 ### OUTPUT:
-![AI 2](https://github.com/Sabari-2005/Word-Count/assets/139338709/eeb94f33-a87f-4921-90c5-b572dcd966ec)
+
 ## RESULT:
 Thus the program is written to find the word count from a text.
